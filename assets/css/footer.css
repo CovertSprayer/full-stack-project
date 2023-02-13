@@ -1,0 +1,10 @@
+footer {
+  box-sizing: border-box;
+  font-size: 1.2rem;
+  height: 3.4rem;
+  padding: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: white;
+  background: #1b5abe; }
